@@ -9,16 +9,8 @@
 
 Run script below.It's now support all version of Xcodes.
 
-`curl -s https://raw.githubusercontent.com/ForkPanda/RescueXcodePlug-ins/master/RescueXcode.sh | sh`
+`curl -s https://raw.githubusercontent.com/jervine10/RescueXcodePlug-ins/master/RescueXcode.sh | sh`
 
-Restart your Xcode.
+Restart Xcode.
 Done!
-
-##如何使用：  
-运行下面的脚本，现在支持所有的Xcode版本。
-
-`curl -s https://raw.githubusercontent.com/ForkPanda/RescueXcodePlug-ins/master/RescueXcode.sh | sh`
-
-重启Xcode。
-完成。
 
